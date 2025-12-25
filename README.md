@@ -20,7 +20,7 @@ Key Highlights
 Outcome
 This project provides a practical solution for patient queue management, improving operational efficiency for medical staff while enhancing clarity and comfort for patients in waiting areas.
 
-
+https://github.com/user-attachments/assets/25a3033f-be08-41c0-8cb7-9a5eff674362
 ![Image](https://github.com/user-attachments/assets/be519ecc-f0e9-4e9e-919b-d614de35cbef)
 ![Image](https://github.com/user-attachments/assets/08ee27d3-c2a5-4cdb-8095-ce0a76525f7f)
 ![Image](https://github.com/user-attachments/assets/5eb4a953-f438-45a2-9b0a-bdefebbd85cf)
