@@ -20,6 +20,4 @@ This project provides a practical solution for patient queue management, improvi
 
 
 https://github.com/user-attachments/assets/25a3033f-be08-41c0-8cb7-9a5eff674362
-![Image](https://github.com/user-attachments/assets/bfeba8d9-82ce-41aa-a9f3-c46cce401f04)
-![Image](https://github.com/user-attachments/assets/7f278745-613d-42a2-8d73-bf5c23594ff7)
-![Image](https://github.com/user-attachments/assets/d5def9ad-bb9f-40b0-ae32-feb8c9b8664e)
+
