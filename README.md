@@ -20,9 +20,9 @@ Key Highlights
 Outcome
 This project provides a practical solution for patient queue management, improving operational efficiency for medical staff while enhancing clarity and comfort for patients in waiting areas.
 
-https://github.com/user-attachments/assets/a8f4783d-a0dc-49e0-9e5d-a6e769f6d516
+
 ![Image](https://github.com/user-attachments/assets/be519ecc-f0e9-4e9e-919b-d614de35cbef)
 ![Image](https://github.com/user-attachments/assets/08ee27d3-c2a5-4cdb-8095-ce0a76525f7f)
 ![Image](https://github.com/user-attachments/assets/5eb4a953-f438-45a2-9b0a-bdefebbd85cf)
 
-https://github.com/sahasdulnada/Patient-Queue-Display-System-Medical-Center/issues/2#issue-3761955984
+
